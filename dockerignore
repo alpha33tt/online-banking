@@ -1,0 +1,11 @@
+
+# Ignore node_modules or vendor directory (if applicable)
+node_modules/
+vendor/
+
+# Ignore temporary files and logs
+*.log
+*.tmp
+
+# Ignore any sensitive files (e.g., .env files)
+.env
